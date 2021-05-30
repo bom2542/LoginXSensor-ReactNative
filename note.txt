@@ -1,0 +1,8 @@
+Hw2 Login by Firebase and 2 Sensor
+Group 4
+By
+1. Mr. Pharadorn Boonruam B6134228 No.23
+2. Mr. Teeratad Tip-ard B6137151 No.25
+3. Mr. Chidchansa Worachin B6137243 No.26
+Link Expo : https://snack.expo.io/@b6134228/hw2_firebaseloginx2sensor
+Link GitHub : https://github.com/bom2542/LoginXSensor-ReactNative
